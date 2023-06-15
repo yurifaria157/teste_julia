@@ -1,0 +1,7 @@
+name = "Nothing"
+uuid = "8fff58f1-268e-4596-ac7c-65871fc2c284"
+authors = ["Yuri Faria <yurifaria157@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+PkgTemplates = "14b8a8f1-9102-5b29-a752-f990bacb7fe1"
